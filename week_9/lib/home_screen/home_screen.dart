@@ -139,7 +139,7 @@ class _MyHomePageState extends State<MyHomePage> {
           //     title: "Are you sure yiu want to exist",
           //     cancel: TextButton(
           //         onPressed: () {
-          //           Get.back();
+          Get.back();
           //         },
           //         child: Text("Decline")),
           //     confirm: TextButton(onPressed: () {}, child: Text("Confirm")));
