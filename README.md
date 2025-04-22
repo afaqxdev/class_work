@@ -41,3 +41,16 @@ My teaching approach blends **theoretical foundations** with **real-world projec
 ---
 
 
+
+# 🤖 Build a Chatbot with Gemini (Google AI)
+
+This project demonstrates how to build a conversational chatbot using Google's Gemini AI (formerly Bard). It uses the official Gemini API to power intelligent and human-like responses.
+
+---
+
+## 🛠️ Tools Needed
+
+- ✅ Google Cloud Platform (GCP) account  
+- ✅ Gemini API key (via [Google AI Studio](https://aistudio.google.com/app))  
+
+
